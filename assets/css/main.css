@@ -25,3 +25,13 @@
 html, body {
   overflow: hidden;
 }
+
+.submenu-link {
+  text-decoration: none !important;
+  color: inherit !important;
+}
+
+.submenu-link:hover {
+  text-decoration: none !important;
+}
+
